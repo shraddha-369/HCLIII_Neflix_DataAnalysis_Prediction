@@ -54,7 +54,7 @@ Recommendation System provides relevant suggestions.
 
 
 ## **🚀 How to Run**
-git clone https://github.com/your-username/netflix-analysis.git
+git clone https://github.com/shraddha-369/netflix-analysis.git
 cd netflix-analysis
 pip install -r requirements.txt
 python netflix_analysis.py
