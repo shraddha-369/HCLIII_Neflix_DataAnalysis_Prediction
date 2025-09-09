@@ -1,10 +1,10 @@
-**#🎬 Netflix Dataset Analysis & Prediction**
-**##📌 Overview**
+# **🎬 Netflix Dataset Analysis & Prediction**
+**📌 Overview**
 
 This project explores and analyzes the Netflix dataset, covering content distribution, genres, and release trends. It also implements a Machine Learning model to predict content type (Movie/TV Show) and a Recommendation System for suggesting similar titles.
 
 
-**##📂 Dataset**
+**📂 Dataset**
 
 Source: Netflix Titles Dataset
 
